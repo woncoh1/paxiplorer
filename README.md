@@ -1,1 +1,1 @@
-# paxiplorer
+# PaxiploreR: Paxinos Atlas Explorer
