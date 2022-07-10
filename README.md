@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/badge/Shiny-shinyapps.io-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)](https://woncoh1.shinyapps.io/paxinos_explorer_0013/)
 
-# Use
+## Use Cases
 - Stereotactic mouse brain surgery
 - Anatomy education
 - Pure fun
