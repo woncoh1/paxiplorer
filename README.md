@@ -3,5 +3,10 @@
 
 [![](https://img.shields.io/badge/Shiny-shinyapps.io-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)](https://woncoh1.shinyapps.io/paxinos_explorer_0013/)
 
+# Use
+- Stereotactic mouse brain surgery
+- Anatomy education
+- Pure fun
+
 ## TODO
 - [ ] [Connect](https://blog.rmhogervorst.nl/blog/2021/02/27/deploy-to-shinyapps-io-from-github-actions/) this Github repo to shinyapps.io
